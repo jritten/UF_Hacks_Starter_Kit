@@ -2,7 +2,7 @@
 
 [Back to Starter-Kit](../)
 
-[Back to Resources](.../Starter_Kit_1.md)
+[Back to Resources](https://github.com/jritten/UF_Hacks_Starter_Kit/blob/main/Starter_Kit_1.md)
 
 # IBM Cloud Serverless React App w App ID Google/Facebook OAuth & AutoAI AI/ML Models
 
@@ -38,7 +38,7 @@ Expand and view the app credentials. Note the **cliendID** and the **discoveryEn
 
 ### [Create a React App](https://reactjs.org/docs/create-a-new-react-app.html)
 
-Create a React app or use the [sample app](https://github.com/IBM-Developer-Austin/appid-sample-code-snippets).
+Create a React app below, clone this repo, or use the [sample app](https://github.com/IBM-Developer-Austin/appid-sample-code-snippets).
 
 **Note:** If it's been a while since you've used the `create-react-app` command, it has been depricated. You will need to uninstall and re-rerun the command.
 
@@ -96,7 +96,7 @@ Install the IBM Cloud App ID SDK:
 npm install ibmcloud-appid-js
 ```
 
-In the `/src` folder of the app, open `App.js` in your text editor. ([see sample app's App.js](https://github.com/jritten/UF_Hackathon_Starter_kit/blob/main/Starter_Kit_1/ibm-react-app/src/App.js))
+In the `/src` folder of the app, open `App.js` in your text editor. ([see sample app's App.js](https://github.com/jritten/UF_Hacks_Starter_Kit/blob/main/Starter_Kit_1/ibm-react-app/src/App.js))
 
 Import App ID by adding the following code:
 ```
@@ -151,7 +151,7 @@ git push -u origin main --allow-unrelated-histories
 
 **Now you're good to go!**
 
-[**<HOW_TO_DOCKERFILE>**](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) ([see sample app's Dockerfile](https://github.com/jritten/UF_Hackathon_Starter_kit/blob/main/Starter_Kit_1/ibm-react-app/Dockerfile))
+[**<HOW_TO_DOCKERFILE>**](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) ([see sample app's Dockerfile](https://github.com/jritten/UF_Hacks_Starter_Kit/blob/main/Starter_Kit_1/ibm-react-app/Dockerfile))
 
 
 ## [Deploy a Serverless React App to IBM Code Engine](https://docs.google.com/presentation/d/1sXPzNECjdG7nwKgbTsZXMEOKR8zBfZ8Fs7uzLHWC4Hg/edit?usp=sharing)
