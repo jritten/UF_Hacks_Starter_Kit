@@ -1,6 +1,6 @@
 [Back to Save Energy Campaign](https://github.com/SSaishruthi/UF_Hackathon_Starter_kit/blob/main/Starter_Kit_1.md)
 
-[Back to Starter-Kit](.../Starter_Kit_1)
+[Back to Starter-Kit](../)
 
 [Back to Resources](..../Starter_Kit_1.md)
 
