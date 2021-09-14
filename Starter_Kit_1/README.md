@@ -1,4 +1,6 @@
-[Back to Save Energy Campaign](../Starter_Kit_1.md)
+[Back to Save Energy Campaign](https://github.com/SSaishruthi/UF_Hackathon_Starter_kit/blob/main/Starter_Kit_1.md)
+
+[Back to Resources](../Starter_Kit_1.md)
 
 # [Build & Deploy AI/ML Models w Multiple Datasets w AutoAI](https://www.crowdcast.io/e/watson-superclass-two)
 

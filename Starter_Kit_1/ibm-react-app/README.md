@@ -1,10 +1,12 @@
-[Back to Save Energy Campaign](...../Starter_Kit_1.md)
+[Back to Save Energy Campaign](https://github.com/SSaishruthi/UF_Hackathon_Starter_kit/blob/main/Starter_Kit_1.md)
 
 [Back to Starter-Kit](.../Starter_Kit_1)
 
+[Back to Resources](..../Starter_Kit_1.md)
+
 # IBM Cloud Serverless React App w App ID Google/Facebook OAuth & AutoAI AI/ML Models
 
-### Create an [**IBM Cloud Pay-As-You-Go Account**](https://ibm.biz/ufhacks2021). 
+### Create an [**IBM Cloud Pay-As-You-Go Account**](https://ibm.biz/ufhacks2021).
 
 You will only be using the Free Lite Tier services.
 

@@ -1,29 +1,3 @@
-![](images/Save_energy_longer.png)
-
-# Overview
-
-We all dream of a green and healthy world. Florida's eight thousand miles of beautiful coastline are a living example of that world. Unfortunately, Florida also has one of the largest per capita consumptions of energy in the United States. The bulk of this energy is generated from fossil fuels leading to high carbon emissions. To contribute to a healthier Florida, we have to encourage more energy conservation and using energy efficiently. 
-
-# Possible Solution
-
-Introduce a discount program where opt-in customers are offered discounted energy rates when they reduce or cycle down energy load during peak consumption periods.
-Some existing demand response system in Florida for reference can be found [here](https://www.arup.com/projects/tallahassee-automated-demand-response-program).
-
-# Idea
-
-Identify customers who can opt for a discount program based on the customer profile and energy usage history. By identifying customers who would be likely adopters, promotions can be targeted to them. 
-
-## Architecture
-
-![](images/Utility_Flow.png)
-
-## Solution Flow
-
-- Access the customer profile and energy usage data stored in the Cloud Object Storage inside Watson Studio
-- Create a model that predicts customers who are likely to enroll in the reward program
-- Deploy the tested model on Watson Studio and get the endpoint URL
-- Create a R-Studio dashboard to view the model result and selected customer profile
-
 # Resources
 
 ## IBM Developer Sample App & Workshop
@@ -66,5 +40,4 @@ Identify customers who can opt for a discount program based on the customer prof
 
 # Authors
 
-- [Saishruthi Swaminathan](https://www.linkedin.com/in/saishruthi-swaminathan/)
 - [Jenna Ritten](https://www.linkedin.com/in/jritten/)
