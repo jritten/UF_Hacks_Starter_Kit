@@ -1,6 +1,6 @@
-# UF Hackathon Starter Kit
+# UF Hacks Starter Kit
 
-## Concept 1 - Save Energy Campaign
+## Save Energy Campaign
 
 - [Save Energy Campaign](https://github.com/SSaishruthi/UF_Hackathon_Starter_kit/blob/main/Starter_Kit_1.md)
 - [Starter Kit](/Starter_Kit_1)
