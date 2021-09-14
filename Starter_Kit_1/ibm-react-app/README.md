@@ -2,7 +2,7 @@
 
 [Back to Starter-Kit](../)
 
-[Back to Resources](..../Starter_Kit_1.md)
+[Back to Resources](.../Starter_Kit_1.md)
 
 # IBM Cloud Serverless React App w App ID Google/Facebook OAuth & AutoAI AI/ML Models
 
